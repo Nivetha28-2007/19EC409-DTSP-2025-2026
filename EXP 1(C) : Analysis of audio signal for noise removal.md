@@ -135,6 +135,8 @@ plot_spec(estimated_noise, sr, "Spectrogram of Extracted Noise")
 <img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/6c83d31e-6a3d-4a0d-b9d0-8ff08465e6c1" />
 <img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/92141e93-2b7e-42dd-b045-64d313848b38" />
 
+# CO-LAB LINK:
+https://colab.research.google.com/drive/1L28WfR_qUH7L5h2LsJI4F7v_5QW0gozr?authuser=0#scrollTo=p41IUUU10ON0
 
 # RESULT :
 
